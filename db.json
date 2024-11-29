@@ -68,24 +68,6 @@
     }
   ],
   "couponCode": "",
-  "wishList": [
-    {
-      "categoryId": 0,
-      "description": "Comfortable and stylish Nordic chair",
-      "id": 1,
-      "imageURL": "images/product-1.png",
-      "name": "Nordic Chair",
-      "price": 50.00
-    },
-    {
-      "categoryId": 1,
-      "description": "Ergonomically designed chair for maximum comfort",
-      "id": 2,
-      "imageURL": "images/product-3.png",
-      "name": "Ergonomic Chair",
-      "price": 43.00
-    }
-  ],
   "userSection": {
     "currentForm": "signin",
     "signinEmail": "",
