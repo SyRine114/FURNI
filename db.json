@@ -98,21 +98,5 @@
       "email": "",
       "password": ""
     }
-  },
-  "checkout": [
-    {
-      "price": 50.00,
-      "productId": 1,
-      "productName": "Nordic Chair",
-      "quantity": 1,
-      "userId": 0
-    },
-    {
-      "price": 43.00,
-      "productId": 2,
-      "productName": "Ergonomic Chair",
-      "quantity": 1,
-      "userId": 0
-    }
-  ]
+  }
 }
