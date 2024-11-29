@@ -87,7 +87,7 @@
     }
   ],
   "userSection": {
-    "currentForm": "signin", // Track current form: 'signin' or 'signup'
+    "currentForm": "signin",
     "signinEmail": "",
     "signinPassword": "",
     "signupName": "",
