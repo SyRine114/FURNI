@@ -61,8 +61,8 @@
   "couponCode": "",
   "userSection": {
     "currentForm": "signin",
-    "signinEmail": "",
-    "signinPassword": "",
+    "signinEmail": "syrine@gmail.com",
+    "signinPassword": "123",
     "signupName": "",
     "signupEmail": "",
     "signupPassword": "",
